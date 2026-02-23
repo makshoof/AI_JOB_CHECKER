@@ -1,0 +1,9 @@
+We are hiring an AI Engineer with at least 4 years experience.
+
+Required Skills:
+Python, FastAPI, AWS, Docker, machine learning, NLP, communication, mentoring, Kubernetes
+
+Responsibilities:
+- Build scalable AI matching systems
+- Collaborate with product and recruiting teams
+- Improve candidate ranking quality and explainability

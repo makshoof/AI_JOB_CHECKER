@@ -1,0 +1,16 @@
+ALEX JOHNSON
+Senior Python Engineer
+
+Summary:
+Results-driven software engineer with 6 years of experience building machine learning APIs.
+
+Skills:
+Python, FastAPI, SQL, AWS, Docker, scikit-learn, NLP, communication, teamwork, leadership
+
+Experience:
+- Built candidate screening API serving 2M+ requests/month.
+- Led migration to containerized microservices with Docker.
+- Improved model inference latency by 40%.
+
+Education:
+Master of Science in Computer Science
